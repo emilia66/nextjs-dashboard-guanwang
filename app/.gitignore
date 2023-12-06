@@ -1,0 +1,38 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.DS_Store
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+target/
+
+### VS Code ###
+.vscode/
+node_modules
+node_modules/
+coverage
+coverage/
+.env.development
+.eslintrc.json
+.idea
+.idea/
+schema_dump.sql
+credentials.md
